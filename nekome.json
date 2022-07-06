@@ -6,14 +6,14 @@
             "bin": [
                 "nekome.exe"
             ],
-            "hash": "9addd545724091f18cfe47f6fd77746ef9da7306184e2b2a49a61788729adb25"
+            "hash": "dc4bc9c8a1d9ab908282e3423e9def4d38438a305b98b342bd0ff039bf6641f3"
         },
         "64bit": {
             "url": "https://github.com/arrow2nd/nekome/releases/download/v0.0.1/nekome_0.0.1_Windows_x86_64.zip",
             "bin": [
                 "nekome.exe"
             ],
-            "hash": "1235f67ff61c7aeab1e4c7312a1b8b80e809b9931e195dde839edff989c82417"
+            "hash": "94e382695469f7767c820d67972227de59067cf41e9bcf399e066f23b71f56e9"
         }
     },
     "homepage": "https://arrow2nd.com/works/nekome",
