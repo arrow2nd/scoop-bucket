@@ -1,19 +1,19 @@
 {
-    "version": "1.9.3",
+    "version": "1.9.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/arrow2nd/twnyan/releases/download/v1.9.3/twnyan_1.9.3_Windows_i386.zip",
+            "url": "https://github.com/arrow2nd/twnyan/releases/download/v1.9.4/twnyan_1.9.4_Windows_i386.zip",
             "bin": [
                 "twnyan.exe"
             ],
-            "hash": "344b5cd0fd9a8d1b554eea60267fa9583de95c49c63de244235f0988e60284fc"
+            "hash": "c094343f9b18e4624ebe98b8990c39d545aa34a1e0942ac6c0de3f00b5aef9d8"
         },
         "64bit": {
-            "url": "https://github.com/arrow2nd/twnyan/releases/download/v1.9.3/twnyan_1.9.3_Windows_x86_64.zip",
+            "url": "https://github.com/arrow2nd/twnyan/releases/download/v1.9.4/twnyan_1.9.4_Windows_x86_64.zip",
             "bin": [
                 "twnyan.exe"
             ],
-            "hash": "de5e5aab6a2a4c20d8fce5cc43ec61aec2a10f9c41e961b983c594fd02f7a3b9"
+            "hash": "743521ac7a13b9ace16b7cde87dbefae2e504586d9b8be3a451b612b6b95b455"
         }
     },
     "homepage": "https://arrow2nd.com/works/twnyan",
