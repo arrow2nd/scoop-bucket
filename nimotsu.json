@@ -1,22 +1,22 @@
 {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/arrow2nd/nimotsu/releases/download/v1.2.1/nimotsu_1.2.1_Windows_i386.zip",
+            "url": "https://github.com/arrow2nd/nimotsu/releases/download/v1.3.0/nimotsu_1.3.0_Windows_i386.zip",
             "bin": [
                 "nimotsu.exe"
             ],
-            "hash": "2aa418a9b14299ff415f4ef77cf302082e7cffb1778225b8513901cbbcafadf4"
+            "hash": "72bc51a478dc1756493e6418e5a7ac8712f3c7762622f363fd30b06dfe21dea2"
         },
         "64bit": {
-            "url": "https://github.com/arrow2nd/nimotsu/releases/download/v1.2.1/nimotsu_1.2.1_Windows_x86_64.zip",
+            "url": "https://github.com/arrow2nd/nimotsu/releases/download/v1.3.0/nimotsu_1.3.0_Windows_x86_64.zip",
             "bin": [
                 "nimotsu.exe"
             ],
-            "hash": "d65ac2968d0622410e287a5b868935eda2a1cdc000e0c853f9eef28a2a3949f5"
+            "hash": "1761adafbc5bbe8c4a4144d67749c426d1e671d462c551afb304914783535572"
         }
     },
     "homepage": "https://arrow2nd.com/works/nimotsu",
     "license": "MIT",
-    "description": "CLI tool to track packages in Japan 📦"
+    "description": "CLI tool to tracking packages in Japan 📦"
 }
