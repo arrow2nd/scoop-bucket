@@ -1,19 +1,19 @@
 {
-    "version": "1.3.2",
+    "version": "1.3.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/arrow2nd/nimotsu/releases/download/v1.3.2/nimotsu_1.3.2_Windows_i386.zip",
+            "url": "https://github.com/arrow2nd/nimotsu/releases/download/v1.3.3/nimotsu_1.3.3_Windows_i386.zip",
             "bin": [
                 "nimotsu.exe"
             ],
-            "hash": "236332e4402d582405d4675afbed540ad8ad12d7958b2f23deb83fc8c0f1b270"
+            "hash": "b9d0e8ee1e643cb4e0e11ab2609949445e2bbcd9d868cd20802a8af5110fb686"
         },
         "64bit": {
-            "url": "https://github.com/arrow2nd/nimotsu/releases/download/v1.3.2/nimotsu_1.3.2_Windows_x86_64.zip",
+            "url": "https://github.com/arrow2nd/nimotsu/releases/download/v1.3.3/nimotsu_1.3.3_Windows_x86_64.zip",
             "bin": [
                 "nimotsu.exe"
             ],
-            "hash": "356b897ff022c778d019a9a3bd4054446214e693e17e40a64442f5aca3e20ccb"
+            "hash": "9dc2633664f264326347d5ecdec5098f37aec0f43d3d9a8d867dc77194180f20"
         }
     },
     "homepage": "https://arrow2nd.com/works/nimotsu",
