@@ -1,19 +1,19 @@
 {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/arrow2nd/nekome/releases/download/v2.2.0/nekome_Windows_i386.zip",
+            "url": "https://github.com/arrow2nd/nekome/releases/download/v2.2.1/nekome_Windows_i386.zip",
             "bin": [
                 "nekome.exe"
             ],
-            "hash": "0ea7ddfdaaf600b4518a9f869b29b076753c3c5efb7640de00c97393accac0bd"
+            "hash": "bbe19e4860608731c8279b09e840eaf22b60f49f76639513ae6fcf8751080020"
         },
         "64bit": {
-            "url": "https://github.com/arrow2nd/nekome/releases/download/v2.2.0/nekome_Windows_x86_64.zip",
+            "url": "https://github.com/arrow2nd/nekome/releases/download/v2.2.1/nekome_Windows_x86_64.zip",
             "bin": [
                 "nekome.exe"
             ],
-            "hash": "c913eb78265bba94d0daa4edc35e4f2f8f05a3eb7f12956e79f951977e091ad3"
+            "hash": "fdab71ba5c47276368236b73de3aabf15923e08c0499b981e7e692fb51fd9a48"
         }
     },
     "homepage": "https://arrow2nd.com/works/nekome",
