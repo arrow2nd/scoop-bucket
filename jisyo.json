@@ -1,26 +1,26 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/arrow2nd/jisyo/releases/download/v0.0.2/jisyo_Windows_i386.zip",
+            "url": "https://github.com/arrow2nd/jisyo/releases/download/v0.0.3/jisyo_Windows_i386.zip",
             "bin": [
                 "jisyo.exe"
             ],
-            "hash": "8ca14e2a27b3106bd907415a86ff2d8a383430a9d58c626f1eec3af62e3b639b"
+            "hash": "bf8b0e72e2f7aedccf1b2cd838c1d61dea7acd338e5cb77aff582d69fc9ee69d"
         },
         "64bit": {
-            "url": "https://github.com/arrow2nd/jisyo/releases/download/v0.0.2/jisyo_Windows_x86_64.zip",
+            "url": "https://github.com/arrow2nd/jisyo/releases/download/v0.0.3/jisyo_Windows_x86_64.zip",
             "bin": [
                 "jisyo.exe"
             ],
-            "hash": "b669e3d23731de3b5efab4868069446e2dd7f5c14dd87f76ef9e33858232f884"
+            "hash": "2ca6fe8442cb559d1e3d0612d9167a7b3322f2f8b1d03af290fcacb8178d52bd"
         },
         "arm64": {
-            "url": "https://github.com/arrow2nd/jisyo/releases/download/v0.0.2/jisyo_Windows_arm64.zip",
+            "url": "https://github.com/arrow2nd/jisyo/releases/download/v0.0.3/jisyo_Windows_arm64.zip",
             "bin": [
                 "jisyo.exe"
             ],
-            "hash": "aab648a5c72da12cfd637040102d5f3a8c6694587aff88c63cb3a8930a661f7d"
+            "hash": "79b9a789cac08c4ab7445835cf694f1e5fc43e4b4b83f666d60e373e5b188605"
         }
     },
     "homepage": "https://arrow2nd.com/works/jisyo",
